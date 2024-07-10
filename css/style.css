@@ -10,3 +10,18 @@ body {
     background-color: #007bff;
     color: white;
 }
+
+h6 {
+    font-size: xx-small;
+}
+
+.password-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.copy-btn {
+    margin-left: 10px;
+}
